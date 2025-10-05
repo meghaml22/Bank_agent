@@ -1,0 +1,14 @@
+# For data manipulation and comparison
+pandas
+
+# For parsing text from PDFs
+pdfplumber
+
+# For parsing tables from PDFs (includes OpenCV dependency)
+"camelot-py[cv]"
+
+# For loading API keys from a .env file
+python-dotenv
+
+# For accessing the Google Gemini API
+google-generativeai
